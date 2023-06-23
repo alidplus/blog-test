@@ -1,0 +1,5 @@
+{
+  "host": "test-project-app.feathersjs.com",
+  "port": "PORT",
+  "mongodb": "mongodb+srv://test:64fmVjXXJEo9mn0c@cluster0.tdyruvd.mongodb.net/"
+}
